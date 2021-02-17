@@ -1,4 +1,4 @@
-# Typical web UI components made using React
+# Web UI components made using React
 A small repo listing all the components and fucntionality created for front-end using reactJS.
 As of now, the components can be viewed at the follwing links:
 
